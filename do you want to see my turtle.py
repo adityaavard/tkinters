@@ -3,6 +3,7 @@ import tkinter
 import customtkinter
 import turtle
 import subprocess
+from PIL import Image
 
 
 #initial setup
