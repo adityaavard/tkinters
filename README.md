@@ -1,5 +1,1 @@
-# tkinters
-
-#this is an open source project
-.this just me playing with customtkinter nothing
-.you are welcome to do whatever you want with this
+hi nice to see you here! go to releases to download my code, it was really fun making it
