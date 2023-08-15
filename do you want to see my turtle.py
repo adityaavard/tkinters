@@ -4,6 +4,7 @@ import customtkinter
 import turtle
 import subprocess
 import PIL
+import os
 
 
 #initial setup
@@ -25,6 +26,10 @@ exit_button.pack(padx=5, pady=4)
 button = customtkinter.CTkButton(ctk, text="see turtle!", command=lambda: subprocess.run(["python", "mouse.py"]))
 button.pack(padx=10, pady=15)
 list = ["mrbeast", "lalith"]
+
+
+img = customtkinter.CTkButton(ctk, text="open ctk image", command=lambda: os.startfile("wallpaper.jpg"))
+img.pack()
 
 #mainloop
 ctk.mainloop()
