@@ -3,7 +3,7 @@ import tkinter
 import customtkinter
 import turtle
 import subprocess
-
+import PIL
 
 #initial setup
 customtkinter.set_appearance_mode("system")
