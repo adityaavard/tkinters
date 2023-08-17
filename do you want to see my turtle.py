@@ -5,6 +5,9 @@ import turtle
 import subprocess
 import PIL
 import os
+import turtle
+
+t = turtle.Turtle()
 
 
 #initial setup
